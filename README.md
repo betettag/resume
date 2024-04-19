@@ -1,3 +1,3 @@
 # Resume
 static resume in markdown 
-see here: (https://betettag.github.io/resume)[https://betettag.github.io/resume]
+see here: [GitHub Pages](https://betettag.github.io/resume)
