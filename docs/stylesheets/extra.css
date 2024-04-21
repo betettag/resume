@@ -1,0 +1,5 @@
+@media only screen and (min-width: 300em) {
+    .md-content #toc-collapse{
+      margin-right: 0;
+    }
+  }

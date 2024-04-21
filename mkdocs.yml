@@ -1,1 +1,3 @@
 site_name: Gino Betetta's Resume
+extra_css:
+  - stylesheets/extra.css
