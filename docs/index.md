@@ -1,4 +1,4 @@
-***<H1 style="text-align: center;">Gino Betetta</H1><p style="text-align: center;">ginobetetta@gmail.com | github.com/betettag</p>***
+***<H1 style="text-align: center;">Gino Betetta</H1><p style="text-align: center;">ginobetetta@gmail.com | github.com/betettag | <a href="https://docs.google.com/document/d/1ixaKbThDNMhxekxRQowXiHFbfWUEJ42a_DlrXJ_9PmY/edit?usp=sharing">Get as PDF</a></p>***
 
 
 * Knowledge of many Operating Environments Windows, macOS, iOS, Android, Linux
